@@ -60,7 +60,7 @@ bot = Client("bot",
              api_hash=os.environ.get("API_HASH"))
 auth_users = [5908818236,5942085615]
 sudo_users = auth_users
-sudo_groups = [-1001850795382]
+sudo_groups = [-1001911553062]
 
 shell_usage = f"**USAGE:** Executes terminal commands directly via bot.\n\n<pre>/shell pip install requests</pre>"
 def one(user_id):
